@@ -10,7 +10,7 @@ Tengo un alto nivel de compromiso y dedicación, y una gran capacidad de aprendi
 
 - 🔭 Actualmente estoy trabajando en mi proyecto personal, que es una lista de la compra.
 - 🌱 Estoy profundizando en Backend con Node.js: API REST con Express.js
-- 📫 Puedes contactar conmigo a través de [linkedin](https://www.linkedin.com/in/nuria-c-0777221a4)
+- 📫 Puedes contactar conmigo a través de [linkedin](https://www.linkedin.com/in/nuria-8890-cd)
 
 ---
 Nuria 🐜
