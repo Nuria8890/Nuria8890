@@ -9,29 +9,8 @@ He trabajado en entornos ágiles (Agile/Scrum) y colaborativos, utilizando Git y
 Tengo un alto nivel de compromiso y dedicación, y una gran capacidad de aprendizaje y adaptación.
 
 - 🔭 Actualmente estoy trabajando en mi proyecto personal, que es una lista de la compra.
-- 🌱 Estoy profundizando en Backend con Node.js: API REST con Express.js
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-
-
- 
-- 📫 Puedes contactar conmigo a través de <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=nuria-8890-cd" target="_blank">LinkedIn</a>
- [linkedin](https://www.linkedin.com/in/nuria-8890-cd)
+- 🌱 Estoy profundizando en Backend con Node.js: API REST con Express.js 
+- 📫 Puedes contactar conmigo a través de [linkedin](https://www.linkedin.com/in/nuria-8890-cd)
 
 ---
 Nuria 🐜
