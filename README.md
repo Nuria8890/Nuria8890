@@ -9,7 +9,7 @@ He trabajado en entornos ágiles (**Agile/Scrum**) y colaborativos, utilizando *
 Tengo un alto nivel de **compromiso** y dedicación, y una gran capacidad de **aprendizaje** y adaptación.
 
 - 🌱 Actualmente estoy profundizando en **Debugging con Chrome DevTools**. 
-- 📫 Puedes contactar conmigo a través de [LinkedIn](https://www.linkedin.com/in/nuria-8890-cd) o enviándome un e-mail a [nuria.campo7@gmail.com]
+- 📫 Puedes contactar conmigo a través de [LinkedIn](https://www.linkedin.com/in/nuria-8890-cd) o enviándome un e-mail a nuria.campo7@gmail.com
 
 ---
 Nuria 🐜
