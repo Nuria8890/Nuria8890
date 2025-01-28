@@ -9,7 +9,7 @@ He trabajado en entornos ágiles (**Agile/Scrum**) y colaborativos, utilizando *
 Tengo un alto nivel de **compromiso** y dedicación, y una gran capacidad de **aprendizaje** y adaptación.
 
 - 🔭 Actualmente estoy trabajando en un **proyecto personal** que se llama Cash Calendar. Se trata de un calendario donde poder ir apuntando tus gastos diarios.
-- 🌱 Para el proyecto estoy aprendiendo a utilizar **NextJS** y familiarizándome con **Tailwind** . 
+- 🌱 Para el proyecto estoy aprendiendo a utilizar **NextJS**, **TypeScript** y familiarizándome con **Tailwind** . 
 - 📫 Puedes contactar conmigo a través de [LinkedIn](https://www.linkedin.com/in/nuria-8890-cd) o enviándome un e-mail a nuria.campo7@gmail.com
 
 ---
