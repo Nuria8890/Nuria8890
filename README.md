@@ -2,13 +2,14 @@
 
 Aquí una desarrolladora Front-End!! 👩‍💻
 
-He finalizado con éxito el Bootcamp intensivo de Programación web full stack con Adalab, en el que he aprendido a utilizar tecnologías tales como **ReactJS**, **NodeJS** **ExpressJS** y **MySQL**, por lo que, aunque esté más enfocada a front-end, puedo participar en todas las etapas del desarrollo de una aplicación, desde la creación de la interfaz de usuario hasta la gestión de la base de datos y la lógica del servidor.
+He finalizado con éxito un Bootcamp intensivo de Programación web full stack, en el que he aprendido a utilizar tecnologías tales como **ReactJS**, **NodeJS** **ExpressJS** y **MySQL**, por lo que, aunque esté más enfocada a front-end, puedo participar en todas las etapas del desarrollo de una aplicación, desde la creación de la interfaz de usuario hasta la gestión de la base de datos y la lógica del servidor.
 
 He trabajado en entornos ágiles (**Agile/Scrum**) y colaborativos, utilizando **Git y GitHub** para el control de versiones, garantizando un flujo de trabajo eficiente y organizado.
 
 Tengo un alto nivel de **compromiso** y dedicación, y una gran capacidad de **aprendizaje** y adaptación.
 
-- 🔭 Actualmente estoy trabajando en un **proyecto** colaborativo que se llama [Cash Calendar](https://github.com/CallePuzzle/cash-calendar). Se trata de un calendario donde poder ir apuntando tus gastos diarios y visualizarlos en gráficas.
+- 👩‍💻 Actualmente estoy trabajando en mi **portfolio**, poniéndole muchas ganas y aprendiendo cositas nuevas.
+- 🗓️ En algún rato libre, también estoy colaborando en un **proyecto** que se llama [Cash Calendar](https://github.com/CallePuzzle/cash-calendar). Se trata de un calendario donde el usuario podrá ir apuntando sus gastos diarios y visualizarlos en gráficas.
 - 🌱 Para el proyecto estoy aprendiendo a utilizar **NextJS**, **TypeScript** y **Tailwind** . 
 - 📫 Puedes contactar conmigo a través de [LinkedIn](https://www.linkedin.com/in/nuria-8890-cd) o enviándome un e-mail a nuria.campo7@gmail.com
 
